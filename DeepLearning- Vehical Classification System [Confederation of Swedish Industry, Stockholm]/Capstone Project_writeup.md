@@ -2,8 +2,6 @@
 ## Machine Learning Engineer Nanodegree
 
 
-September 15th, 2016  
-
 ## I. Definition
 
 ### Project Overview
