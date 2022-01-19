@@ -2,7 +2,7 @@
 ## Machine Learning Engineer Nanodegree
 Rafael Castillo Alcibar
 
-September 15th, 2016 
+September 15th, 2016  
 
 ## I. Definition
 
