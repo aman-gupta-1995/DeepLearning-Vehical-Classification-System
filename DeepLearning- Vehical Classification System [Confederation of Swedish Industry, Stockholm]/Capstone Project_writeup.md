@@ -1,6 +1,6 @@
 # Capstone Project
 ## Machine Learning Engineer Nanodegree
-Rafael Castillo Alcibar
+
 
 September 15th, 2016  
 
