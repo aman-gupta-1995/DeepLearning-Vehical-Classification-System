@@ -268,4 +268,3 @@ With regards to improvements, as already mentioned, gathering additional data wo
 [ref 07]: [Monza: Image Classification of Vehicle Make and Model Using Convolutional Neural Networks and Transfer Learning](http://cs231n.stanford.edu/reports/lediurfinal.pdf)
 
 [ref 08]: [ Neilsen's book](http://neuralnetworksanddeeplearning.com/)
-
