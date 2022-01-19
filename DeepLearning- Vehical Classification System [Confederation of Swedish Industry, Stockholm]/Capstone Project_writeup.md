@@ -269,4 +269,3 @@ With regards to improvements, as already mentioned, gathering additional data wo
 
 [ref 08]: [ Neilsen's book](http://neuralnetworksanddeeplearning.com/)
 
-
