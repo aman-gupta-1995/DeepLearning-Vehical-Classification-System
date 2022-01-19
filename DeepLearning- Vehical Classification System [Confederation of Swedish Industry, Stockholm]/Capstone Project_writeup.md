@@ -1,7 +1,6 @@
 # Capstone Project
 ## Machine Learning Engineer Nanodegree
 
-
 ## I. Definition
 
 ### Project Overview
