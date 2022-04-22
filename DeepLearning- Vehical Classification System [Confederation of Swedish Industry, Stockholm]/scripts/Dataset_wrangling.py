@@ -2,7 +2,7 @@
 Created on Aug 21, 2016
 
 @author: rafaelcastillo
-
+ 
 This script is used to built the final dataset from the pictures downloaded   
 ''' 
 
