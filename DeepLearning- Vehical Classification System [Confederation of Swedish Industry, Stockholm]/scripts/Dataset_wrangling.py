@@ -7,7 +7,7 @@ This script is used to built the final dataset from the pictures downloaded
 ''' 
 
 import pandas 
-import numpy as np 
+import numpy as np  
 from os import listdir,walk
 from os.path import isfile, join
 from keras.preprocessing.image import ImageDataGenerator
