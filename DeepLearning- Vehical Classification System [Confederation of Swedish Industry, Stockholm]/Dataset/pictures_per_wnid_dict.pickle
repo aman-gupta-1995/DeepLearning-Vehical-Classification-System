@@ -4,7 +4,7 @@ p1
 cnumpy.core.multiarray
 scalar
 p2
-(cnumpy
+(cnumpy 
 dtype
 p3
 (S'i8'  
