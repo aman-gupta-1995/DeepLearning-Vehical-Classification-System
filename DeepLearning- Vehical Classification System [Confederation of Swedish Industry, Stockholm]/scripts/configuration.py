@@ -2,7 +2,7 @@
 Created on Aug 27, 2016
 
 @author: rafaelcastillo
-
+ 
 This file includes all configuration parameters used along the project
 '''
 
