@@ -2,7 +2,7 @@
 '''
 Created on Aug 19, 2016
 
-@author: rafaelcastillo
+@author: rafaelcastillo 
  
 
 This script is intended to download pictures from Imagenet (http://image-net.org/) 
