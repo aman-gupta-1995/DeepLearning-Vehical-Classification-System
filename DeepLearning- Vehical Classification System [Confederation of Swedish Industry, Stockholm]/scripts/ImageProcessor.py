@@ -32,7 +32,7 @@ def resize_pic(img_path,width,height):
 
 
 def generate_pics(pictures_path,number_pics,width,height):
-    '''
+    ''' 
     This script is used to generate pictures using the Keras utility ImageDataGenerator.
     
     Args:
