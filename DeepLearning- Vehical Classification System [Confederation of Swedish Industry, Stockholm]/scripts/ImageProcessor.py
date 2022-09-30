@@ -2,7 +2,7 @@ import os, shutil
 import random
 from os import listdir 
 from os.path import isfile, join
-import Image 
+import Image  
 from scipy import ndimage     
 from keras.preprocessing.image import ImageDataGenerator    
   
