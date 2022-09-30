@@ -5,7 +5,7 @@ from os.path import isfile, join
 import Image 
 from scipy import ndimage    
 from keras.preprocessing.image import ImageDataGenerator    
- 
+  
 
 def resize_pic(img_path,width,height):
     '''
